@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/riyad/CLionProjects/maze/main.cpp
+string
+-
+iostream
+-
+fstream
+-
+vector
+-
+bits/stdc++.h
+-
+
